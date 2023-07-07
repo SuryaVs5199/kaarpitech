@@ -662,7 +662,7 @@ section.main-banner {
 
 .main-banner .right-image::after {
   position: absolute;
-  background-image: url(../images/banner-right-dec.png);
+  background-image: #
   width: 378px;
   height: 378px;
   content: '';
